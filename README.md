@@ -7,3 +7,5 @@ thread and choosing a file.
 
 The class called "Application" contains the Main method for starting the program.
 
+This program was made in an hour, as requested by the specification.
+
